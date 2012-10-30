@@ -11,8 +11,8 @@ Screen and clean variable selection procedures, including UPS and GS.
 \tabular{ll}{
 Package: \tab ScreenClean\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-10-22\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2012-10-30\cr
 License: \tab GPL (>= 2)\cr
 }
 }

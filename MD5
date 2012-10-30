@@ -1,4 +1,4 @@
-965595a6d39d88163300a8c75b90f8ec *DESCRIPTION
+42629500d46e38fa9541f728d39d7187 *DESCRIPTION
 11cc527a8375783d0f2afb962b1ddd17 *NAMESPACE
 f9f4cf42a406427392c10acb9a1fbde7 *R/CleaningStep.r
 9ab58823aa77c570e69e98fcb2e6ca3b *R/FindAllCG.r
@@ -13,7 +13,7 @@ dcd866a98ea7d6ac65ea655263d55839 *demo/demoIterGS.r
 756e47eccf6f0f83f0ec9640924991db *man/FindCG.Rd
 71d604f84251e19dea81d37d9e7e6d60 *man/IterGS.Rd
 b9fcd7af4c76ec4a07ed7608c3d68f98 *man/PMLE.Rd
-ec52105423c3c68bc6e12e3619bc1e4e *man/ScreenClean-package.Rd
+3c2d40e5df9d813cc04bb5ba40a800e5 *man/ScreenClean-package.Rd
 52bcc7398446122b1af5d86b768b28b5 *man/ScreeningStep.Rd
 47f4c4e757405a74dc251a1b2c45bef4 *man/ThresholdGram.Rd
 ba068933b9c2619a78bd3faee48dbc3f *man/VectorizeBase.Rd
